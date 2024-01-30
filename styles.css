@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+#box
+{
+	height:200px;
+	width:500px;
+	Background-color:#f5f5f5;	
+	
+}
+#h
+{
+  padding:25px;
+}
+#box2
+{
+	height:30px;
+	width:400px;
+	Background-color:white;
+	padding:15px;
+	text-align:center
+	
+}
